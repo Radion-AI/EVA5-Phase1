@@ -4,7 +4,6 @@ This assignment targets an accuracy of 87 percent on CIFAR10 dataset by implemen
 
 - Implement the transformations in Albumentations.
 - Implement GradCAM as a module.
-- Must use Global Average pooling (GAP)
 
 ## Model Used
 Resnet18
