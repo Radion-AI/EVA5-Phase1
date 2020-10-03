@@ -1,4 +1,6 @@
-# Session 9 - Data Augmentation
+# Session 10 - LR Finder and Reduce LR on Plateau
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eo19MODMBfDRy8m6YjIeZs6OkB1bdouh)
 
 This assignment targets an accuracy of 88 percent on CIFAR10 dataset by implementing the following.
 
