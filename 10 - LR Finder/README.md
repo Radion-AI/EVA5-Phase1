@@ -5,7 +5,7 @@ This assignment targets an accuracy of 88 percent on CIFAR10 dataset by implemen
 - Implement LRFinder to find best initial LR.
 - Implement Reduce LR on Plateau.
 - Cut out in Albumentations should be present.
-- Implement
+- Use SGD with momentum
 
 ## Model Used
 Resnet18
