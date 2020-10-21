@@ -1,29 +1,22 @@
-# Session 7 - Advanced Convolutions
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GlPmQ-LtFGaOPguOkn9ETcbspHhj0YC7)
+# Session 8 - Receptive Fields and Network Architectures
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HACPrd-nXT8AKnG2_CRkvvF7UnKwGktV)
 
-This assignment aims to achieve 80% percent of accuracy on CIFAR10 with following conditions :
+This assignment aims to achieve 85% percent of accuracy on CIFAR10 using RESNET18.
 
-- Total Receptive Field must be more than 44
-- One of the layers must use Depthwise Separable Convolution
-- One of the layers must use Dilated Convolution
-- Must use Global Average pooling (GAP)
-- Add Fully Connected(FC) after GAP
-
-## Model Architecture
-![alt text](./images/S7_Architecture.png)
+## Model Used
+RESNET18
 
 ## Results
 
-Accuracy = 84.43%<br>
-Epochs used = 40<br>
-Parameters = 94,218<br><br>
+Accuracy = 85.61%<br>
+Epochs used = 50<br>
+Parameters = 11,173,962<br><br>
 
 ### Change in validation loss
-![alt text](./images/TestLoss.png)
-
+![alt text](./images/loss_change.png)
 
 ### Change in validation accuracy
-![alt text](./images/TestAccuracy.png)
+![alt text](./images/accuracy change.png)
 
 
 ### Setup on Local System
