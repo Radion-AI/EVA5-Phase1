@@ -16,7 +16,7 @@ Parameters = 11,173,962<br><br>
 ![alt text](./images/loss_change.png)
 
 ### Change in validation accuracy
-![alt text](./images/accuracy change.png)
+![alt text](./images/accuracy_change.png)
 
 
 ### Setup on Local System
