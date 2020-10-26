@@ -1,8 +1,11 @@
 # Session 13 - Object Detection using Yolov3
 
-## Assignment-A
+## Assignment-A Yolov3 with OpenCV
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CvEqLpFofINODcuPut8sEQpCYtdzUU6S?usp=sharing)
+
+Detecting objects in an image where there is a person and an object present in the image.<br>
+Note: The object should be present in the COCO classes.
 
 
 
@@ -16,8 +19,7 @@ Custom data included 4 classes : Hardhat, vest, mask, boots.
 
 ### Result
 
-Click on the video below to play  
-[![]()]( 'PPE kit detection using Yolov3')
+Click [here](https://youtu.be/L2peHJ240pw) to play the output video
 
 
 ### Custom Dataset Preparation
