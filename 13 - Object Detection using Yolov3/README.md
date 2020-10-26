@@ -7,6 +7,11 @@
 Detecting objects in an image where there is a person and an object present in the image.<br>
 Note: The object should be present in the COCO classes.
 
+### Result
+This is Happy Singh             |  This is Vishwajeet Pratap Singh
+:-------------------------:|:-------------------------:
+![](images/Happy_image_opencv.jpg)  |  ![](images/Vishwa_image_opencv.jpg)
+
 
 
 
