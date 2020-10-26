@@ -9,7 +9,7 @@
 
 ## Assignment-B Yolov3 Object Detection on Custom Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wkNBudlLV7NKsz4oBAuP1f4XaUOJpw-d?usp=sharing)
 
 The assignment aim to perform object detection on custom dataset using Yolov3.
 Custom data included 4 classes : Hardhat, vest, mask, boots.
@@ -29,7 +29,7 @@ Click on the video below to play
 
 
 - Using PPE Construction Dataset
-    - Download the data from [here]() and paste place it [this]() directory.
+    - Download the data from [here](https://drive.google.com/drive/folders/1qlf7LwCtulLHC71MrHg8RZUbVR5PJcFw?usp=sharing) and paste place it [this](YoloV3/data) directory.
 
 ### Downloading pretrained weights
 
