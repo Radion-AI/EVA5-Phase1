@@ -8,9 +8,7 @@ This repository contains the link of dataset which contains depth map, surface p
     - mask<br>
     - boots<br><br>
 
-## Dataset Link :
-
-    https://drive.google.com/file/d/1gdkjVx-Dnji_kCBBkhPaVMhVImEuXZaU/view?usp=sharing
+- Dataset Link : https://drive.google.com/file/d/1gdkjVx-Dnji_kCBBkhPaVMhVImEuXZaU/view?usp=sharing 
 
 ## Directory Structure:
 
