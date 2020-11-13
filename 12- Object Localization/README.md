@@ -1,6 +1,6 @@
 # Session 12 - Object Localisation
 
-## Assignent-A
+## Assigment-A
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FNJ4VzjgnzbW2NROHFaAav6qgefMOe0c)
 
@@ -25,7 +25,7 @@ Best Initial LR = 0.0014
 ![alt text](./images/tinyimagenet_accuracy_change.png)
 
 
-## Assignent-B
+## Assigment-B
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z2cUNqAQ4o_OaMO_DGtFZfizfDKObIsg#scrollTo=YTK--Qs2f3tN)
 
