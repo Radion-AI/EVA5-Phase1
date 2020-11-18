@@ -1,4 +1,4 @@
-# Session 10 - LR Finder and Reduce LR on Plateau
+# Session 10 - Super Convergence
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oFWerqo3MjmK7TX1K-sdPsakc4_yPkGU?usp=sharing)
 
